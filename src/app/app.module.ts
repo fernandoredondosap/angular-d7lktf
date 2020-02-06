@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule } from '@angular/forms';
 import { translations, translationChunksConfig } from '@spartacus/assets';
 import {B2cStorefrontModule} from '@spartacus/storefront';
-import {CmsLibModule} from '@spartacus/storefront';
+//import {CmsLibModule} from '@spartacus/storefront';
 import { AppComponent } from './app.component';
 import { HelloComponent } from './hello.component';
 
